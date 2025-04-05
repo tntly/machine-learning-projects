@@ -10,8 +10,8 @@ This repository contains a collection of machine learning and deep learning proj
 
 - `generative-models/vae/` - Building a variational eutoencoder to generate and visualize fashion MNIST items in a 2D latent space (TensorFlow)
 
-## Bioinformatics & Healthcare
-- `bioinformatics/svm_braf_v600e_prediction/` - Predicting BRAF V600E inhibitors using Support Vector Machine (scikit-learn)
+## Bioinformatics and Healthcare
+- `bioinformatics/svm_braf_v600e_prediction/` - Predicting BRAF V600E inhibitors using support vector machine (scikit-learn)
 
 ## Getting Started
 Each project has its own folder and may include a `requirements.txt`. To run a notebook:
