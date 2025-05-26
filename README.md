@@ -4,6 +4,8 @@ This repository contains a collection of machine learning and deep learning proj
 
 ## Classification
 
+- `classification/biomedical-image/pathmnist-transfer-learning/` - Comparative study of transfer learning effectiveness for biomedical image classification using ResNet-18 on PathMNIST dataset, implementing three approaches: training from scratch, feature extraction with frozen pre-trained weights, and full fine-tuning (PyTorch, torchvision, medmnist)
+
 - `classification/malware-family/` - Classifying malware into families using API call sequences with Word2Vec and BERT embeddings combined with machine learning and CNN models (scikit-learn, xgboost, transformers, PyTorch)
 
 - `classification/mnist/` - Handwritten digit classification using a neural network (TensorFlow)
